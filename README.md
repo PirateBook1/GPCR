@@ -5,11 +5,11 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|春桥文录
 
+![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|人民日报
+
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|首长讲话
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|学习文件
-
-![Progress](https://progress-bar.dev/7/?scale=7&title=finished&width=200&color=babaca&suffix=/7)|重要讲话
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|王洪文文集
 
@@ -50,10 +50,6 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|秘鲁共产党总路线
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|贡萨罗主席虎笼演讲
-
-![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|关于国际形势的报告
-
-![Progress](https://progress-bar.dev/3/?scale=3&title=finished&width=200&color=babaca&suffix=/3)|洪文、春桥同志批示
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|列宁与军事化共产党
 
@@ -116,8 +112,6 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|张春桥同志重要报告
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|革命国际主义运动宣言
-
-![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|工人阶级必须领导一切
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|红旗一九六八年第三期
 
@@ -433,10 +427,6 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|关于工人队伍基本状况的调查
 
-![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|纪念中国共产党成立一百周年
-
-![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|江青陈伯达在北京大学的讲话
-
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|林副主席的指示（1966）
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|毛泽东选集1-7（静火版）
@@ -535,9 +525,9 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|首长讲话（1967.9.11）
 
-![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|王洪文付主席和马天水同志的谈话
-
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|为什么是毛主义–什么是毛主义？
+
+![Progress](https://progress-bar.dev/7/?scale=7&title=finished&width=200&color=babaca&suffix=/7)|中央首长重要讲话（1967年）
 
 ![Progress](https://progress-bar.dev/18/?scale=32&title=finished&width=200&color=babaca&suffix=/32)|马列毛基础教程（2019年修订）
 
@@ -577,15 +567,17 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 
 ![Progress](https://progress-bar.dev/8/?scale=9&title=finished&width=200&color=babaca&suffix=/9)|共产党宣言（人民出版社1963年版）
 
-![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|关于日本问题的报告（1956.11）
-
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|国家与革命（人民出版社1976年版）
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|黄兆其的部分罪行材料（1977.7）
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|坚决批倒批臭刘少奇反革命修正主义路线
 
+![Progress](https://progress-bar.dev/2/?scale=2&title=finished&width=200&color=babaca&suffix=/2)|毛远新和江青两篇讲话（1968.3）
+
 ![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|毛远新在省委常委会议上的发言（摘录）
+
+![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|王洪文和马天水的谈话（1974.3）
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|伟大的创举（人民出版社1973年版）
 
@@ -643,6 +635,8 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|无产阶级文化大革命参考资料（1966年）
 
+![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|姚文元关于国际形势的报告（1967.6）
+
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|印度共产党（毛主义）文献集（2022年）
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|张春桥同志在省市革命委员会座谈会上的讲话
@@ -699,17 +693,15 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|杨春甫在全国计划工作座谈会上的发言（要点）
 
-![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|姚文元同志在上海市革命委员会报告会上的讲话
-
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|一月三日市革会扩大会议上张春桥同志最新指示
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|张春桥、姚文元同志在整风报告会上的重要讲话
 
+![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|张春桥关于日本问题的报告（1956.11）
+
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|张春桥同志在上海市革命委员会报告会上的讲话
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|宗明兰在省直机关批判右倾翻案风大会上的讲话
-
-![Progress](https://progress-bar.dev/2/?scale=2&title=finished&width=200&color=babaca&suffix=/2)|毛远新同志在辽联赴京代表团座谈会上的讲话纪要
 
 ![Progress](https://progress-bar.dev/6/?scale=6&title=finished&width=200&color=babaca&suffix=/6)|毛远新在省工农兵干部学习班的几次讲话（摘编）
 
@@ -729,9 +721,9 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|陈伯达同志谈刘、邓问题（1966.10.25）
 
-![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|冯金传达毛远新同志在省工农兵干部学习班上的讲话
-
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|国务院、中央军委文件 国发〔1974〕102号
+
+![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|纪念中国共产党成立一百周年（2021.7.1）
 
 ![Progress](https://progress-bar.dev/2/?scale=4&title=finished&width=200&color=babaca&suffix=/4)|毛远新紧跟“四人帮”大反经验主义的部分罪行材料
 
@@ -765,6 +757,8 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|关于正确处理人民内部矛盾的问题（毛泽东著作选读）
 
+![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|江青陈伯达在北京大学的讲话（1966.7.23）
+
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|联共（布）党史简明教程（人民出版社1975年版）
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|毛泽东思想万岁（1949.10-1957.12）
@@ -775,15 +769,9 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|武汉地区文革纪实（中国文化传播出版社2020年）
 
-![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|姚文元同志在欢庆黄浦区革命委员会成立大会上的讲话
-
-![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|张春桥同志二月二十五日与华东局革命造反派座谈纪要
-
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|张春桥同志在上海市革命委员会扩大会议上的重要指示
 
 ![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|宗明兰在省理论讨论会上的讲话（1976.7.4）
-
-![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|陈锡联同志在沈阳三派革命群众组织代表座谈会上的讲话
 
 ![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|关于无产阶级文化大革命问题（1973.12.30）
 
@@ -835,8 +823,6 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 
 ![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|毛远新一九七五年挑拨中央与地方关系的几次谈话（摘录）
 
-![Progress](https://progress-bar.dev/6/?scale=6&title=finished&width=200&color=babaca&suffix=/6)|毛远新在批邓、反击右倾翻案风斗争中的一些言论（摘编）
-
 ![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|毛远新在学习辽宁朝阳农学院教育革命经验现场会上的讲话
 
 ![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|认真学习毛主席重要指示——搞清楚资产阶级就在共产党内
@@ -850,6 +836,8 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|张春桥同志在上海市市政交通系统革命派誓师大会上的讲话
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|张春桥在总政宣传部、解放军报社部分同志座谈会上的讲话
+
+![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|中共中央文件 中发〔69〕48号（1969.8.4）
 
 ![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|宗明兰在省工农干部学习班大会上的发言（1974.2）
 
@@ -870,6 +858,8 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|张春桥、姚文元同志在济南军区机关排以上干部会议上的讲话
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|张春桥同志1967年12月10日下午接见文艺界代表讲话
+
+![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|张春桥与华东局革命造反派座谈纪要（1967.2.25）
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|“四人帮”在甘肃的代理人冼恒汉罪行材料（1977.11）
 
@@ -925,8 +915,6 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|社会民主党在民主革命中的两种策略（人民出版社1971年版）
 
-![Progress](https://progress-bar.dev/2/?scale=2&title=finished&width=200&color=babaca&suffix=/2)|王洪文副主席在接见总参民兵组训工作座谈会议全体同志时的讲话
-
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|我们应该如何看待秘鲁的人民战争？（红色文献翻译2020年）
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|夏邦银、朱洪霞、胡厚民等人罪行材料（街头大字报、传单节录）
@@ -936,8 +924,6 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|前奏：毛泽东1965年重上井冈山（当代中国出版社2010年）
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|社会改良还是社会革命（生活·读书·新知三联书店1958年版）
-
-![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|王洪文、纪登奎同志在省委工作会议召集人和县委书记会议上的讲话
 
 ![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|王洪文同志二月九日在接见四川大足汽车厂在北京学习班同志的讲话
 
@@ -969,6 +955,8 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|无产阶级文化大革命资料汇编（第三篇）（下）（水陆洲2012年）
 
+![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|姚文元同志在上海市革命委员会报告会上的讲话（1967.6.3）
+
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|张春桥同志、姚文元同志在上海市革命委员会教卫小组座谈会上的讲话
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|郑州市深揭狠批“四人帮”大会发言材料之四（1977.3.17）
@@ -997,17 +985,19 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|中国共产党两条路线斗争史讲义（安徽师范大学政教系1976年7月）
 
+![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|毛远新在团省委召开的“学习吴献忠座谈会”上的讲话（1976.12）
+
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|社会主义社会的基本矛盾和党的基本路线（广东人民出版社1976年版）
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|为加强无产阶级专政而斗争——上海市革命委员会一九六七年六月二日决议
 
 ![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|张春桥主任一九七五年三月一日在全军各大单位政治部主任座谈会上的讲话
 
+![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|冯金传达毛远新同志在省工农兵干部学习班上的讲话（1974.2.16）
+
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|全国农业劳动模范陈以梅同志在山东省工农兵代表批林批孔汇报大会上的讲话
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|无产阶级文化大革命中上海反对经济主义大事记（上海1967.3.17）
-
-![Progress](https://progress-bar.dev/6/?scale=6&title=finished&width=200&color=babaca&suffix=/6)|怎样理解资产阶级就在共产党内——北京市第三次理论讨论会的五个发言材料
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|张春桥、姚文元同志在革命委员会扩大会议上的讲话（1967.3.12）
 
@@ -1015,13 +1005,17 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|中共中央政治局同志7月30日晚接见全国计划工作座谈会全体同志时的讲话
 
+![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|中央首长接见全国铁路、交通会议全体代表时的讲话（1968.5.12）
+
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|不再沉默——一个文革亲历者的回顾与思考（中国文化传播出版社2010年）
+
+![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|陈锡联同志在沈阳三派革命群众组织代表座谈会上的讲话（1968.4.7）
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|反击教条主义者对毛泽东思想的进攻——评恩维尔·霍查的《帝国主义与革命》
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|康生、谢富治在北京大中学校学生代表座谈会上的讲话（1967.8.11）
 
-![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|毛远新一九七四年一月在团省委召开的“学习吴献忠座谈会”上的讲话（节录）
+![Progress](https://progress-bar.dev/6/?scale=6&title=finished&width=200&color=babaca&suffix=/6)|毛远新在批邓、反击右倾翻案风斗争中的一些言论（摘编）（1976.11）
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|内蒙文革实录：“民族分裂”与“挖肃”运动（天行健出版社2010年6月）
 
@@ -1081,9 +1075,15 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|关于杨德政﹑康岩中、杨世才、袁昌福等人召开反革命应变会的部分材料（1977.3）
 
-![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|在工总司召开的“坚决响应毛主席伟大号召，‘斗私批修’誓师大会”上张春桥同志的讲话
+![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|王洪文、纪登奎同志在省委工作会议召集人和县委书记会议上的讲话（1975.7.9）
+
+![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|王洪文叶剑英在接见总参民兵组训工作座谈会议全体同志时的讲话（1974.9.22）
+
+![Progress](https://progress-bar.dev/3/?scale=3&title=finished&width=200&color=babaca&suffix=/3)|王洪文张春桥批示、上海市委在警备区看大字报时的讲话、关于许世友的大字报（1974）
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|周总理接见工交、财贸、农林口各部委及国务院直属单位代表时的讲话（1968.2.2）
+
+![Progress](https://progress-bar.dev/2/?scale=2&title=finished&width=200&color=babaca&suffix=/2)|姚文元在欢庆黄浦区革命委员会成立大会上的讲话和一篇《新北大》社论（1967.3.20）
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|“四人帮”在湖北的黑干将、现行反革命分子夏邦银、朱鸿霞、胡厚民、张立国、董明会的罪行材料
 
@@ -1091,11 +1091,17 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 
 ![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|怎样理解资产阶级在党内？——宗明兰同志在辽宁省理论讨论会上的总结发言（1976.3.1）
 
+![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|王洪文在上海市机电一局系统活学活用毛泽东思想积极分子代表大会上的讲话（1968.3.18）
+
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|在毛主义和人民战争下对取消主义斗争和团结国际共运：关于阿共（毛）对2018年五一宣言的批评
+
+![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|中华人民共和国史 第五卷 从挽救危机到反修防修（1962-1965）（中文大学2008年）
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|在“高举毛泽东思想伟大红旗，进一步开展‘三结合’夺权斗争誓师大会”上张春桥、姚文元同志的讲话
 
 ![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|张春桥同志接见上海“红革会”与“工人革命造反总司令部”代表的谈话记录（1966.12.23）
+
+![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|中华人民共和国史 第八卷 难以继续的“继续革命”（1972-1976）（中文大学2008年）
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|总理、伯达、康生、江青、姚文元同志接见南京军区、江苏赴京代表团讲话纪要（1968.1.28）
 
@@ -1111,12 +1117,20 @@ https://github.com/banned-historical-archives/banned-historical-archives.github.
 
 ![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|市革会领导成员、工总司主要负责人王洪文同志一九六七年十二月廿二日下午在铁路文化宫大会上的重要讲话
 
-![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|上海市机电一局系统活学活用毛泽东思想积极分子代表大会上市革会领导成员、工总司负责人王洪文同志的讲话
+![Progress](https://progress-bar.dev/1/?scale=6&title=finished&width=200&color=babaca&suffix=/6)|怎样理解资产阶级就在共产党内——北京市第三次理论讨论会的五个发言材料（北京人民出版社1976年）
+
+![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|张春桥在工总司召开的“坚决响应毛主席伟大号召，‘斗私批修’誓师大会”上的讲话（1967.10.6）
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|关于社会主义革命时期的阶级关系问题——辽宁省委宣传组理论问题讨论会《关于阶级关系问题的讨论情况汇集》
 
+![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|中华人民共和国史 第四卷 乌托邦运动——从大跃进到大饥荒（1958-1961）（中文大学2008年）
+
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|张春桥同志在上海市革命委员会“高举毛泽东思想伟大红旗进一步开展三结合夺权斗争誓师大会”上的讲话（油印版）
 
-![Progress](https://progress-bar.dev/1/?scale=1&title=finished&width=200&color=babaca&suffix=/1)|总理、陈伯达、康生、江青、姚文元等同志在接见全国铁路、交通会议全体代表时的重要讲话（1968.5.12）
+![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|中华人民共和国史 第六卷 砸烂旧世界——文化大革命的动乱与浩劫（1966-1968）（中文大学2008年）
+
+![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|中华人民共和国史 第二卷 向社会主义过渡——中国经济与社会的转型（1953-1955）（中文大学2009年）
+
+![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|中华人民共和国史 第三卷 思考与选择——从知识分子会议到反右派运动（1956-1957）（中文大学2008年）
 
 ![Progress](https://progress-bar.dev/0/?scale=0&title=finished&width=200&color=babaca&suffix=/0)|周恩来、陈伯达、康生、江青、杨成武、张春桥同志和中央文革小组在接见河南湖北来京参加学习班的军队干部地方干部和红卫兵会议上的讲话
